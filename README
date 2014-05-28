@@ -30,6 +30,4 @@ Modules description
 * glHeaders.h - add all OpenGL headers with one
 
 Big TODO's:
-* turning on shaders compiling (searching right way)
-* split to two threads rendering and drawing
-* write logic of application (ICG Lab-2)
+* CPU-side preparations for pass data to GPU
